@@ -6,4 +6,7 @@ edition = "2018"
 repository = "https://github.com/Metalith/wind"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+description = "ECS Prototype"
+license = "GPL-3.0-or-later"
+
 [dependencies]
